@@ -1,6 +1,6 @@
 {
-    "url": "https://raw.githubusercontent.com/OpenTreeOfLife/collections/jimallman/trees-about-bees.json",
-    "name": "Trees about bees",
+    "url": "https://raw.githubusercontent.com/OpenTreeOfLife/collections/jimallman/my-test-collection.json",
+    "name": "My test collection",
     "description": "We're gathering these with an eye toward local synthesis in Anthophila (Apoidea). Contributions welcome!",
     "creator": {"login": "jimallman", "name": "Jim Allman"},
     "contributors": [
