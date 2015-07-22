@@ -1,8 +1,17 @@
 {
-"contributors": [], 
+"contributors": [
+  {
+    "login": "pmidford", 
+    "name": "Peter Midford"
+  },
+  {
+    "login": "kcranston", 
+    "name": "Karen Cranston"
+  }
+], 
 "creator": {
-"login": "jimallman", 
-"name": "Jim Allman"
+  "login": "jimallman", 
+  "name": "Jim Allman"
 }, 
 "decisions": [
   {
