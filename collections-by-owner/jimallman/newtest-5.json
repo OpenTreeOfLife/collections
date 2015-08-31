@@ -1,0 +1,11 @@
+{
+"contributors": [], 
+"creator": {
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"decisions": [], 
+"description": "test of server overriding new id", 
+"name": "newtest", 
+"queries": []
+}
