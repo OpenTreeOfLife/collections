@@ -1,0 +1,76 @@
+{
+"contributors": [], 
+"creator": {
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "from Davis, 2010", 
+"decision": "INCLUDED", 
+"name": "Tree tree801 from Davis, 2010", 
+"studyID": "pg_72", 
+"treeID": "tree801"
+}, 
+{
+"SHA": "", 
+"comments": "from Dewey, 2015", 
+"decision": "INCLUDED", 
+"name": "Tree tree2 from Dewey, 2015", 
+"studyID": "tt_32", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "from Testing for Barielly, [no year]", 
+"decision": "INCLUDED", 
+"name": "Tree tree1 from Testing for Barielly, [no year]", 
+"studyID": "tt_35", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "from Gu W., 2014", 
+"decision": "INCLUDED", 
+"name": "Tree tree6689 from Gu W., 2014", 
+"studyID": "pg_2885", 
+"treeID": "tree6689"
+}, 
+{
+"SHA": "", 
+"comments": "from Gu W., 2014", 
+"decision": "INCLUDED", 
+"name": "Tree tree6691 from Gu W., 2014", 
+"studyID": "pg_2885", 
+"treeID": "tree6691"
+}, 
+{
+"SHA": "", 
+"comments": "from Sassi M., 2014", 
+"decision": "INCLUDED", 
+"name": "Tree tree6688 from Sassi M., 2014", 
+"studyID": "pg_2884", 
+"treeID": "tree6688"
+}, 
+{
+"SHA": "", 
+"comments": "from Boivin T., 2014", 
+"decision": "INCLUDED", 
+"name": "Tree tree6695 from Boivin T., 2014", 
+"studyID": "pg_2887", 
+"treeID": "tree6695"
+}, 
+{
+"SHA": "", 
+"comments": "from Gillis A., 2014", 
+"decision": "INCLUDED", 
+"name": "Tree tree6686 from Gillis A., 2014", 
+"studyID": "pg_2883", 
+"treeID": "tree6686"
+}
+], 
+"description": "Test with many trees", 
+"name": "big test collection", 
+"queries": []
+}
