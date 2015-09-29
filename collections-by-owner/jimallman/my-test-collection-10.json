@@ -1,10 +1,19 @@
 {
 "contributors": [], 
 "creator": {
-"login": "", 
-"name": ""
+"login": "jimallman", 
+"name": "Jim Allman"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "from Davis, 2010", 
+"decision": "INCLUDED", 
+"name": "tree801 from Davis, 2010", 
+"studyID": "pg_72", 
+"treeID": "tree801"
+}
+], 
 "description": "", 
 "name": "My test collection", 
 "queries": []
