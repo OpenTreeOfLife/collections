@@ -7,14 +7,22 @@
 "decisions": [
 {
 "SHA": "", 
-"comments": "", 
+"comments": "I love this tree!", 
 "decision": "INCLUDED", 
 "name": "tree6692 (Gu W., 2014)", 
 "studyID": "pg_2885", 
 "treeID": "tree6692"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6686 (Gillis A., 2014)", 
+"studyID": "pg_2883", 
+"treeID": "tree6686"
 }
 ], 
 "description": "test of new collection in profile page", 
-"name": "new test 3a", 
+"name": "new test 4", 
 "queries": []
 }
