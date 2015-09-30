@@ -7,14 +7,6 @@
 "decisions": [
 {
 "SHA": "", 
-"comments": "from Davis, 2010", 
-"decision": "INCLUDED", 
-"name": "Tree tree801 from Davis, 2010", 
-"studyID": "pg_72", 
-"treeID": "tree801"
-}, 
-{
-"SHA": "", 
 "comments": "from Dewey, 2015", 
 "decision": "INCLUDED", 
 "name": "Tree tree2 from Dewey, 2015", 
@@ -94,7 +86,7 @@
 "treeID": "tree6592"
 }
 ], 
-"description": "Test with many trees", 
-"name": "big test collection", 
+"description": "Test with many trees (first one removed)", 
+"name": "big test collection!", 
 "queries": []
 }
