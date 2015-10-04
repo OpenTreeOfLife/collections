@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "test add 2", 
+"decision": "INCLUDED", 
+"name": "PARSIMONY (study has no reference)", 
+"studyID": "ot_32", 
+"treeID": "tree2"
+}
+], 
+"description": "", 
+"name": "new thing", 
+"queries": []
+}
