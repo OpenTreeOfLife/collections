@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "PARSIMONY ((Untitled))", 
+"studyID": "ot_32", 
+"treeID": "tree2"
+}
+], 
+"description": "A quick test of add-this-tree-to-new-collection", 
+"name": "added-from-study-page", 
+"queries": []
+}
