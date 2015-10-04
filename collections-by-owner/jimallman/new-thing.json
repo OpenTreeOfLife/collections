@@ -4,7 +4,16 @@
 "login": "jimallman", 
 "name": "Jim Allman"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "putting it back!", 
+"decision": "INCLUDED", 
+"name": "PARSIMONY (TEST-ignore, 2012)", 
+"studyID": "ot_32", 
+"treeID": "tree2"
+}
+], 
 "description": "", 
 "name": "new thing", 
 "queries": []
