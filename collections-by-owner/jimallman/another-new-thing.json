@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "PARSIMONY (TEST-ignore, 2012)", 
+"studyID": "ot_32", 
+"treeID": "tree2"
+}
+], 
+"description": "just to hold a tree and update", 
+"name": "another new thing", 
+"queries": []
+}
