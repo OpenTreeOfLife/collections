@@ -92,6 +92,14 @@
 "name": "Tree tree6592 from Altermann S., 2014", 
 "studyID": "pg_2837", 
 "treeID": "tree6592"
+}, 
+{
+"SHA": "", 
+"comments": "test add", 
+"decision": "INCLUDED", 
+"name": "PARSIMONY (study has no reference)", 
+"studyID": "ot_32", 
+"treeID": "tree2"
 }
 ], 
 "description": "Test with many trees", 
