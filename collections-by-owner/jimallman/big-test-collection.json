@@ -100,6 +100,14 @@
 "name": "PARSIMONY (study has no reference)", 
 "studyID": "ot_32", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "MISC INFERENCE METHOD (TEST-ignore, 2012)", 
+"studyID": "ot_32", 
+"treeID": "tree3"
 }
 ], 
 "description": "Test with many trees", 
