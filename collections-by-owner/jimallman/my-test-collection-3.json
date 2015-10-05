@@ -1,10 +1,19 @@
 {
 "contributors": [], 
 "creator": {
-"login": "", 
-"name": ""
+"login": "jimallman", 
+"name": "Jim Allman"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "MISC INFERENCE METHOD (TEST-ignore, 2012)", 
+"studyID": "ot_32", 
+"treeID": "tree3"
+}
+], 
 "description": "", 
 "name": "My test collection", 
 "queries": []
