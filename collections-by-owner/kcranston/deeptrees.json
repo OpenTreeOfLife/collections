@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "kcranston", 
+"name": "Karen Cranston"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree6756) (Grant J.R., 2014)", 
+"studyID": "pg_2925", 
+"treeID": "tree6756"
+}
+], 
+"description": "Trees covering deep nodes", 
+"name": "deeptrees", 
+"queries": []
+}
