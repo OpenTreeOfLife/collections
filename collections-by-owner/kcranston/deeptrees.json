@@ -28,6 +28,14 @@
 "name": "Untitled (tree5093) (Derelle, 2011)", 
 "studyID": "pg_2413", 
 "treeID": "tree5093"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6569 (Parfrey, 2011)", 
+"studyID": "pg_2822", 
+"treeID": "tree6569"
 }
 ], 
 "description": "Trees covering deep nodes", 
