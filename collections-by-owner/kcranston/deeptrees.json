@@ -12,6 +12,14 @@
 "name": "Untitled (tree6756) (Grant J.R., 2014)", 
 "studyID": "pg_2925", 
 "treeID": "tree6756"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6573 (Burki, 2007)", 
+"studyID": "pg_2826", 
+"treeID": "tree6573"
 }
 ], 
 "description": "Trees covering deep nodes", 
