@@ -95,14 +95,6 @@
 }, 
 {
 "SHA": "", 
-"comments": "test add", 
-"decision": "INCLUDED", 
-"name": "PARSIMONY (study has no reference)", 
-"studyID": "ot_32", 
-"treeID": "tree2"
-}, 
-{
-"SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
 "name": "MISC INFERENCE METHOD (TEST-ignore, 2012)", 
