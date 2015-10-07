@@ -9,9 +9,17 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "PARSIMONY (TEST-ignore, 2012)", 
-"studyID": "ot_32", 
-"treeID": "tree2"
+"name": "tree6689 (Gu W., 2014)", 
+"studyID": "pg_2885", 
+"treeID": "tree6689"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6692 (Gu W., 2014)", 
+"studyID": "pg_2885", 
+"treeID": "tree6692"
 }
 ], 
 "description": "just to hold a tree and update", 
