@@ -12,6 +12,14 @@
 "name": "Derived from PLUTo Project (M.-J. Park, 2008)", 
 "studyID": "tt_86", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree5) (T. Aizawa, 2009)", 
+"studyID": "tt_87", 
+"treeID": "tree5"
 }
 ], 
 "description": "Trees derived from figure image analysis", 
