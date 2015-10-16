@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "rossmounce", 
+"name": "Ross Mounce"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Derived from PLUTo Project (M.-J. Park, 2008)", 
+"studyID": "tt_86", 
+"treeID": "tree1"
+}
+], 
+"description": "Trees derived from figure image analysis", 
+"name": "PLUTo Project Trees", 
+"queries": []
+}
