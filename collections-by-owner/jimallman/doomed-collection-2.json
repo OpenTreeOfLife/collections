@@ -1,11 +1,20 @@
 {
 "contributors": [], 
 "creator": {
-"login": "", 
-"name": ""
+"login": "jimallman", 
+"name": "Jim Allman"
 }, 
-"decisions": [], 
-"description": "", 
-"name": "", 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree6725) (Lo E., 2014)", 
+"studyID": "pg_2904", 
+"treeID": "tree6725"
+}
+], 
+"description": "More testing data.", 
+"name": "another doomed collection", 
 "queries": []
 }
