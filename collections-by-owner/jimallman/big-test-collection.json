@@ -84,6 +84,14 @@
 "name": "tree6725 (Lo E., 2014)", 
 "studyID": "pg_2904", 
 "treeID": "tree6725"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree6725) (Lo E., 2014)", 
+"studyID": "pg_2904", 
+"treeID": "tree6725"
 }
 ], 
 "description": "Test with many trees", 
