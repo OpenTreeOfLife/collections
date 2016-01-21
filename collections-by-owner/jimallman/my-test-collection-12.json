@@ -1,10 +1,19 @@
 {
 "contributors": [], 
 "creator": {
-"login": "", 
-"name": ""
+"login": "jimallman", 
+"name": "Jim Allman"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree2) (Dewey, 2015)", 
+"studyID": "tt_32", 
+"treeID": "tree2"
+}
+], 
 "description": "", 
 "name": "My test collection", 
 "queries": []
