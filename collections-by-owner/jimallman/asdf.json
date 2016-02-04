@@ -1,5 +1,10 @@
 {
-"contributors": [], 
+"contributors": [
+{
+"login": "jar398", 
+"name": "Jonathan A Rees"
+}
+], 
 "creator": {
 "login": "jimallman", 
 "name": "Jim Allman"
@@ -12,6 +17,14 @@
 "name": "Untitled (tree6688) (Sassi M., 2014)", 
 "studyID": "pg_2884", 
 "treeID": "tree6688"
+}, 
+{
+"SHA": "", 
+"comments": "Just testing. -JAR", 
+"decision": "INCLUDED", 
+"name": "Tr52142 (Chen S., 2012)", 
+"studyID": "ot_64", 
+"treeID": "Tr52142"
 }
 ], 
 "description": "", 
