@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "made it", 
+"decision": "INCLUDED", 
+"name": "rpb2 (study has no reference)", 
+"studyID": "tt_103", 
+"treeID": "tree2"
+}
+], 
+"description": "automated updating", 
+"name": "Physcraper", 
+"queries": []
+}
