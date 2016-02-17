@@ -4,7 +4,24 @@
 "login": "bredelings", 
 "name": "Benjamin Redelings"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5223 (Nicola Segata, [no year])", 
+"studyID": "pg_2448", 
+"treeID": "tree5223"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5590 (Jenna Morgan Lang, 2013)", 
+"studyID": "pg_2542", 
+"treeID": "tree5590"
+}
+], 
 "description": "Include big microbe trees", 
 "name": "microbes1", 
 "queries": []
