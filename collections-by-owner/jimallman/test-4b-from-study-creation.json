@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr85440 (Derelle R., 2015)", 
+"studyID": "tt_104", 
+"treeID": "Tr85440"
+}
+], 
+"description": "", 
+"name": "test 4b (from study creation)", 
+"queries": []
+}
