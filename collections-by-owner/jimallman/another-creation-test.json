@@ -4,8 +4,17 @@
 "login": "jimallman", 
 "name": "Jim Allman"
 }, 
-"decisions": [], 
-"description": "", 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2215 (Zhong, 2010)", 
+"studyID": "pg_1114", 
+"treeID": "tree2215"
+}
+], 
+"description": "It works! ", 
 "name": "Another creation test", 
 "queries": []
 }
