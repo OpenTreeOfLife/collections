@@ -4,7 +4,16 @@
 "login": "jimallman", 
 "name": "Jim Allman"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "OLD newick from #205 (HTTPS-only test (from jimA), [no year])", 
+"studyID": "tt_35", 
+"treeID": "tree1"
+}
+], 
 "description": "another creation test (fresh start) MOD", 
 "name": "newtest", 
 "queries": []
