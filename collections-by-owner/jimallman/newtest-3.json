@@ -12,6 +12,14 @@
 "name": "OLD newick from #205 (HTTPS-only test (from jimA), [no year])", 
 "studyID": "tt_35", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree6049) (Martin F.N., 2014)", 
+"studyID": "pg_2606", 
+"treeID": "tree6049"
 }
 ], 
 "description": "another creation test (fresh start) MOD", 
