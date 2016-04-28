@@ -44,6 +44,14 @@
 "name": "Untitled (tree6610) (He, 2014)", 
 "studyID": "pg_2847", 
 "treeID": "tree6610"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig 1 (tree6695) (Boivin T., 2014)", 
+"studyID": "pg_2887", 
+"treeID": "tree6695"
 }
 ], 
 "description": "Trees covering deep nodes", 
