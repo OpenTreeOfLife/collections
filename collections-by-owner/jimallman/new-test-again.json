@@ -4,7 +4,24 @@
 "login": "jimallman", 
 "name": "Jim Allman"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6050 (Martin F.N., 2014)", 
+"studyID": "pg_2606", 
+"treeID": "tree6050"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6053 (Martin F.N., 2014)", 
+"studyID": "pg_2606", 
+"treeID": "tree6053"
+}
+], 
 "description": "Test with modified base URLs", 
 "name": "new test-again", 
 "queries": []
