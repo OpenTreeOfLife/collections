@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4591 (Macias-hernandez N.E., 2010)", 
+"studyID": "pg_2173", 
+"treeID": "tree4591"
+}
+], 
+"description": "Testing a new collection with study+tree lookup", 
+"name": "foofoo", 
+"queries": []
+}
