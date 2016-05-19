@@ -28,6 +28,14 @@
 "name": "tree3627 (Foltz D., 2006)", 
 "studyID": "pg_1792", 
 "treeID": "tree3627"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree801 (Davis, 2010)", 
+"studyID": "pg_72", 
+"treeID": "tree801"
 }
 ], 
 "description": "Test with modified base URLs", 
