@@ -4,7 +4,32 @@
 "login": "jimallman", 
 "name": "Jim Allman"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree4591) (Macias-hernandez N.E., 2010)", 
+"studyID": "pg_2173", 
+"treeID": "tree4591"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2535 (McDonald, 2012)", 
+"studyID": "pg_1260", 
+"treeID": "tree2535"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree975 (Wagstaff S., 2002)", 
+"studyID": "pg_616", 
+"treeID": "tree975"
+}
+], 
 "description": "test of new collection in profile page", 
 "name": "new test", 
 "queries": []
