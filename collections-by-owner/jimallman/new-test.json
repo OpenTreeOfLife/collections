@@ -28,6 +28,22 @@
 "name": "tree975 (Wagstaff S., 2002)", 
 "studyID": "pg_616", 
 "treeID": "tree975"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (S. B. Hedges, 2015)", 
+"studyID": "tt_102", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6493 (John E. McCormack, 2013)", 
+"studyID": "pg_2797", 
+"treeID": "tree6493"
 }
 ], 
 "description": "test of new collection in profile page", 
