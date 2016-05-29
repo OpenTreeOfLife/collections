@@ -23,11 +23,19 @@
 }, 
 {
 "SHA": "", 
-"comments": "This was added using our rebased feature branch.", 
+"comments": "", 
 "decision": "INCLUDED", 
 "name": "tree4234 (Cardoso D.B., 2012)", 
 "studyID": "pg_2055", 
 "treeID": "tree4234"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree529 (S. A. Smith, 2008)", 
+"studyID": "pg_422", 
+"treeID": "tree529"
 }
 ], 
 "description": "another creation test (fresh start) MOD", 
