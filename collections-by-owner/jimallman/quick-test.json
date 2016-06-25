@@ -1,0 +1,11 @@
+{
+"contributors": [], 
+"creator": {
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"decisions": [], 
+"description": "Watching for auth_info or token...", 
+"name": "quick-test", 
+"queries": []
+}
