@@ -4,7 +4,16 @@
 "login": "josephwb", 
 "name": "Joseph W. Brown"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree5995 (Brown, 2008)", 
+"studyID": "pg_435", 
+"treeID": "tree5995"
+}
+], 
 "description": "", 
 "name": "foo", 
 "queries": []
