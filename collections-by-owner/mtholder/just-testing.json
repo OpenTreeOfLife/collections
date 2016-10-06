@@ -4,7 +4,16 @@
 "login": "mtholder", 
 "name": "Mark T. Holder"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "just testing", 
+"decision": "INCLUDED", 
+"name": "tree2162 (Soza, 2010)", 
+"studyID": "pg_20", 
+"treeID": "tree2162"
+}
+], 
 "description": "", 
 "name": "just-testing", 
 "queries": []
