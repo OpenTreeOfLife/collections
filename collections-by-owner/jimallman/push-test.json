@@ -1,0 +1,20 @@
+{
+"contributors": [], 
+"creator": {
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Happy Tree (Martin F.N., 2014)", 
+"studyID": "pg_2606", 
+"treeID": "tree6049"
+}
+], 
+"description": "This is mainly to test a push to dev collections-0", 
+"name": "push test", 
+"queries": []
+}
