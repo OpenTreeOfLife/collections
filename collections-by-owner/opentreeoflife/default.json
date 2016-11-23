@@ -461,14 +461,6 @@
 "name": "ML majority-rule consensus (Betancur-R., 2013)", 
 "studyID": "pg_2651", 
 "treeID": "tree6177"
-}, 
-{
-"SHA": "", 
-"comments": "Added via API (include_tree_in_synth) from Martin F.N., Blair J.E., & Coffey M.D. 2014. TEST! A combined mitochondrial and nuclear multilocus phylogeny of the genus Phytophthora. Fungal Genetics and Biology 66: 19-22.", 
-"decision": "INCLUDED", 
-"name": "Sad panda tree!", 
-"studyID": "pg_2606", 
-"treeID": "tree6050"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
