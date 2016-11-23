@@ -461,6 +461,14 @@
 "name": "ML majority-rule consensus (Betancur-R., 2013)", 
 "studyID": "pg_2651", 
 "treeID": "tree6177"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Michael A. Ruggiero, Dennis P. Gordon, Thomas M. Orrell, Nicolas Bailly, Thierry Bourgoin, Richard C. Brusca, Thomas Cavalier-Smith, Michael D. Guiry, Paul M. Kirk, 2015, 'A Higher Level Classification of All Living Organisms', PLOS ONE, vol. 10, no. 4, p. e0119248", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree1)", 
+"studyID": "tt_150", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
