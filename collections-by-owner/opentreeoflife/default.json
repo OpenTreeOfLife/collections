@@ -26,33 +26,9 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Fig. 2 ML (Selvatti, 2015)", 
-"studyID": "ot_290", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Zingiberales Sass et al PeerJ 2016 (Chodon Sass, 2016)", 
-"studyID": "ot_709", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
 "name": "Majority-Rule Consensus of 2000 trees from Trees stored in block \"7Genes MLBoot Trees (PartitionFinder)\" (David Maddison, 2014)", 
 "studyID": "ot_624", 
 "treeID": "tree2"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "tree 3 (Shayla Salzman, 2015)", 
-"studyID": "ot_711", 
-"treeID": "tree1"
 }, 
 {
 "SHA": "", 
@@ -85,14 +61,6 @@
 "name": "Ericales (tree530) (S. A. Smith, 2008)", 
 "studyID": "pg_422", 
 "treeID": "tree530"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "tree1 (Tedford, 2009)", 
-"studyID": "ot_278", 
-"treeID": "tree1"
 }, 
 {
 "SHA": "", 
@@ -141,14 +109,6 @@
 "name": "Figs. 36-38 (Armbruster J.W. , 2004)", 
 "studyID": "pg_2071", 
 "treeID": "tree4264"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Fig. 3 (BEAST) (Cushing, 2015)", 
-"studyID": "ot_509", 
-"treeID": "tree1"
 }, 
 {
 "SHA": "", 
@@ -234,14 +194,6 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (K.Y. Ma, 2009)", 
-"studyID": "ot_115", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
 "name": "tree1585 (Porter T.M., 2011)", 
 "studyID": "pg_827", 
 "treeID": "tree1585"
@@ -322,14 +274,6 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (Qi Kou, 2013)", 
-"studyID": "ot_131", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
 "name": "tree4 (K.M. Hultgren, 2008)", 
 "studyID": "ot_657", 
 "treeID": "tree4"
@@ -338,49 +282,9 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (Sun, 2016)", 
-"studyID": "ot_535", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "tree1 (Ksepka, 2015)", 
-"studyID": "ot_534", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
 "name": "Tr85942 (Frederik Leliaert, 2015)", 
 "studyID": "ot_546", 
 "treeID": "Tr85942"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "tree1 (Gao, 2014)", 
-"studyID": "ot_105", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "tree1 (Ka Yan Ma, 2011)", 
-"studyID": "ot_114", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "tree1 (Qi Kou, 2013)", 
-"studyID": "ot_132", 
-"treeID": "tree1"
 }, 
 {
 "SHA": "", 
@@ -405,22 +309,6 @@
 "name": "Tr3687 (Cooke D., 2000)", 
 "studyID": "ot_26", 
 "treeID": "Tr3687"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "tree1 (Dos Remedios, 2015)", 
-"studyID": "ot_289", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "tree1 (Oatley, 2015)", 
-"studyID": "ot_305", 
-"treeID": "tree1"
 }, 
 {
 "SHA": "", 
@@ -570,33 +458,9 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Bayesian 18S Chlorophyceae (S. Watanabe, 2016)", 
-"studyID": "ot_752", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
-"name": "Figure 1 (Martin Malmstr\u00f8m, [no year])", 
-"studyID": "ot_771", 
-"treeID": "tree1"
-}, 
-{
-"SHA": "", 
-"comments": "", 
-"decision": "INCLUDED", 
 "name": "ML majority-rule consensus (Betancur-R., 2013)", 
 "studyID": "pg_2651", 
 "treeID": "tree6177"
-}, 
-{
-"SHA": "", 
-"comments": "Added via API (include_tree_in_synth) from Michael A. Ruggiero, Dennis P. Gordon, Thomas M. Orrell, Nicolas Bailly, Thierry Bourgoin, Richard C. Brusca, Thomas Cavalier-Smith, Michael D. Guiry, Paul M. Kirk, 2015, 'A Higher Level Classification of All Living Organisms', PLOS ONE, vol. 10, no. 4, p. e0119248", 
-"decision": "INCLUDED", 
-"name": "Untitled (tree1)", 
-"studyID": "tt_150", 
-"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
