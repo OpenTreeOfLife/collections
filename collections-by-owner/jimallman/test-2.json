@@ -7,7 +7,7 @@
 "decisions": [
 {
 "SHA": "", 
-"comments": "", 
+"comments": "Test of \"P\u00e9rez\" in a comment", 
 "decision": "INCLUDED", 
 "name": "tree1 (McT\u00e4vish Test, 2016)", 
 "studyID": "tt_103", 
