@@ -461,6 +461,14 @@
 "name": "ML majority-rule consensus (Betancur-R., 2013)", 
 "studyID": "pg_2651", 
 "treeID": "tree6177"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from McT\u00e4vish Test, 2016.", 
+"decision": "INCLUDED", 
+"name": "rpb1", 
+"studyID": "tt_103", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
