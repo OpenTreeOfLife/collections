@@ -4,7 +4,16 @@
 "login": "jimallman", 
 "name": "Jim Allman"
 }, 
-"decisions": [], 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (McT\u00e4vish Test, 2016)", 
+"studyID": "tt_103", 
+"treeID": "tree1"
+}
+], 
 "description": "", 
 "name": "test 2", 
 "queries": []
