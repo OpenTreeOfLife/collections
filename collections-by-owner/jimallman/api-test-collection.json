@@ -1,0 +1,11 @@
+{
+"contributors": [], 
+"creator": {
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"decisions": [], 
+"description": "This is just a test of the new-collection call", 
+"name": "API test collection", 
+"queries": []
+}
