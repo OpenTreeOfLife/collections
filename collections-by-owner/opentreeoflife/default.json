@@ -469,6 +469,14 @@
 "name": "rpb1", 
 "studyID": "tt_103", 
 "treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Derelle R., Torruella G., Klime\u009a V., Brinkmann H., Kim E., Vl&#269;ek &., Lang B.F., & Eli\u00e1\u009a M. 2015. Bacterial proteins pinpoint a single eukaryotic root. Proceedings of the National Academy of Sciences of the United States of America, .", 
+"decision": "INCLUDED", 
+"name": "Fig. 1L", 
+"studyID": "tt_104", 
+"treeID": "Tr85440"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
