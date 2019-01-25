@@ -1,0 +1,133 @@
+{
+"contributors": [
+{
+"login": "bsidlauskas", 
+"name": "Brian Sidlauskas"
+}, 
+{
+"login": "balhoff", 
+"name": "Jim Balhoff"
+}, 
+{
+"login": "ictiologa", 
+"name": "Mariangeles Arce H."
+}, 
+{
+"login": "laurajackson", 
+"name": "laurajackson (None)"
+}
+], 
+"creator": {
+"login": "kcranston", 
+"name": "Karen Cranston"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr91777 (Lundberg J.G., 2007)", 
+"studyID": "ot_526", 
+"treeID": "Tr91777"
+}, 
+{
+"SHA": "", 
+"comments": "Preferred Morphological phylogeny of Cetopsidae (whale catfishes)", 
+"decision": "INCLUDED", 
+"name": "Figure 33 (De Pinna, 2007)", 
+"studyID": "ot_575", 
+"treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr53870 (Royero R. , 1999)", 
+"studyID": "ot_591", 
+"treeID": "Tr53870"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Bockmann, 1998)", 
+"studyID": "ot_594", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Soares-Porto, 1998)", 
+"studyID": "ot_589", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (ALAN H. BORNBUSCH, 1995)", 
+"studyID": "ot_590", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr53782 (Friel J.P. , 1994)", 
+"studyID": "ot_595", 
+"treeID": "Tr53782"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 17+ (Shibatta O.A. , 1998)", 
+"studyID": "ot_599", 
+"treeID": "Tr53933"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Figs. 3, 32-33+ (Chen X. , 1994)", 
+"studyID": "ot_625", 
+"treeID": "Tr53737"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Figure 21 (, 1987)", 
+"studyID": "ot_633", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Morphological tree of Sisoroidea", 
+"decision": "INCLUDED", 
+"name": "Figure 52 (De Pinna, 1996)", 
+"studyID": "ot_631", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Figure 13 (SCOTT A. SCHAEFER, 1991)", 
+"studyID": "ot_635", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Figure 1 (Lundberg JG, 1992)", 
+"studyID": "ot_627", 
+"treeID": "tree1"
+}
+], 
+"description": "Catfish - collection from clade workshops", 
+"name": "catfish", 
+"queries": []
+}
