@@ -9,7 +9,8 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "Untitled (tree4591) (Macias-hernandez N.E., 2010)", 
+"name": "tree4591 (Macias-hernandez N.E., 2010)", 
+"status": "RENAMED", 
 "studyID": "pg_2173", 
 "treeID": "tree4591"
 }, 
@@ -18,6 +19,7 @@
 "comments": "", 
 "decision": "INCLUDED", 
 "name": "tree2535 (McDonald, 2012)", 
+"status": "UNCHANGED", 
 "studyID": "pg_1260", 
 "treeID": "tree2535"
 }, 
@@ -26,6 +28,7 @@
 "comments": "", 
 "decision": "INCLUDED", 
 "name": "tree975 (Wagstaff S., 2002)", 
+"status": "UNCHANGED", 
 "studyID": "pg_616", 
 "treeID": "tree975"
 }, 
@@ -33,7 +36,8 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree1 (S. B. Hedges, 2015)", 
+"name": "Untitled (tree1) (S. B. Hedges, 2015)", 
+"status": "RENAMED", 
 "studyID": "tt_102", 
 "treeID": "tree1"
 }, 
@@ -41,9 +45,19 @@
 "SHA": "", 
 "comments": "", 
 "decision": "INCLUDED", 
-"name": "tree6493 (John E. McCormack, 2013)", 
+"name": "Bayesian consensus. 32 taxa, 1541 loci. (McCormack, 2013)", 
+"status": "RENAMED", 
 "studyID": "pg_2797", 
 "treeID": "tree6493"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree2) (AutoUpdated ot_350, 2019)", 
+"status": "UNCHANGED", 
+"studyID": "tt_254", 
+"treeID": "tree2"
 }
 ], 
 "description": "test of new collection in profile page", 
