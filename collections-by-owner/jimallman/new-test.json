@@ -52,6 +52,14 @@
 "name": "Untitled (tree2) (AutoUpdated ot_350, 2019)", 
 "studyID": "tt_254", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Test tree (to be removed)", 
+"decision": "INCLUDED", 
+"name": "tree4590 (Macias-hernandez N.E., 2010)", 
+"studyID": "pg_2173", 
+"treeID": "tree4590"
 }
 ], 
 "description": "test of new collection in profile page", 
