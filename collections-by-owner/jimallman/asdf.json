@@ -17,14 +17,6 @@
 "name": "Untitled (tree6688) (Mohamed Sassi, 2014)", 
 "studyID": "pg_2884", 
 "treeID": "tree6688"
-}, 
-{
-"SHA": "", 
-"comments": "Just testing. -JAR", 
-"decision": "INCLUDED", 
-"name": "Tr52142 (Chen S., 2012)", 
-"studyID": "ot_64", 
-"treeID": "Tr52142"
 }
 ], 
 "description": "Test change (watching for defaultSortOrder)", 
