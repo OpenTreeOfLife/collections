@@ -485,6 +485,14 @@
 "name": "MrBayes 50 majrule", 
 "studyID": "ot_1171", 
 "treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Added via API (include_tree_in_synth) from Sibley, Charles G., Jon E. Ahlquist. 1990. Phylogeny and Classification of the Birds A Study in Molecular Evolution. ISBN: 9780300040852\n\n\n\n    \n", 
+"decision": "INCLUDED", 
+"name": "Full tree (with extinct added; Davis 2014)", 
+"studyID": "ot_427", 
+"treeID": "tree1"
 }
 ], 
 "description": "Trees for synthesis, but ranked lower than other synthesis collections", 
