@@ -1,11 +1,26 @@
 {
-"contributors": [], 
+"contributors": [],
 "creator": {
-"login": "mtholder", 
+"login": "mtholder",
 "name": "Mark T. Holder"
-}, 
-"decisions": [], 
-"description": "moved my local keys around", 
-"name": "bogus", 
+},
+"decisions": [
+{
+"SHA": "",
+"comments": "",
+"compactRefText": "Su-Ching Chang, 2014",
+"decision": "INCLUDED",
+"defaultSortOrder": 0,
+"name": "MrBayes maj-rule consensus tree (Su-Ching Chang, 2014)",
+"ot:focalCladeOTTTaxonName": "Thaumastocheles",
+"ot:studyPublication": "http://dx.doi.org/10.1163/1937240x-00002201",
+"ot:studyPublicationReference": "Su-Ching Chang, Tin-Yam Chan, Shane T. Ahyong, 2014, 'Two new species of the rare lobster genus Thaumastocheles Wood-Mason, 1874 (Reptantia: Nephropidae) discovered from recent deep-sea expeditions in the Indo-West Pacific', Journal of Crustacean Biology, vol. 34, no. 1, pp. 107-122",
+"ot:studyYear": 2014,
+"studyID": "ot_189",
+"treeID": "tree1"
+}
+],
+"description": "moved my local keys around",
+"name": "bogus",
 "queries": []
 }
