@@ -493,6 +493,14 @@
 "name": "Gondwanan frogs",
 "studyID": "ot_1164",
 "treeID": "tree2"
+},
+{
+"SHA": "",
+"comments": "Added via API (include_tree_in_synth) from charlie, 2012",
+"decision": "INCLUDED",
+"name": "Untitled (tree6571)",
+"studyID": "pg_2823",
+"treeID": "tree6571"
 }
 ],
 "description": "Trees for synthesis, but ranked lower than other synthesis collections",
