@@ -22,11 +22,13 @@
 {
 "SHA": "",
 "comments": "",
-"compactRefText": "Auto update of pg_55\nedit4\n, [no year]",
+"compactRefText": "luna, [no year]",
 "decision": "INCLUDED",
 "defaultSortOrder": 1,
-"name": "Untitled (tree1) (Auto update of pg_55\nedit4\n, [no year])",
-"ot:studyPublication": "https://github.com/McTavishLab/physcraper/issues",
+"name": "Untitled (tree1) (luna, [no year])",
+"ot:focalCladeOTTTaxonName": "",
+"ot:studyPublication": "http://dx.doi.org/10.2172/1782605 ",
+"ot:studyPublicationReferenc": "luna",
 "ot:studyPublicationReference": "Auto update of pg_55\nedit4\n",
 "ot:studyYear": 2020,
 "studyID": "tt_265",
@@ -34,6 +36,6 @@
 }
 ],
 "description": "renaming this copy (changed!)",
-"name": "NEW bogus",
+"name": "NEW bogusity",
 "queries": []
 }
